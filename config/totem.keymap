@@ -88,7 +88,7 @@
            &kp Q           &kp W           &kp E               &kp R             &kp T        &kp Y        &kp U             &kp I                    &kp O              &kp P
            &kp A           &kp S           &kp D               &kp F             &kp G        &kp H        &kp J             &kp K                    &kp L              &kp SEMICOLON
 &kp TILDE  &mt LEFT_GUI Z  &mt LEFT_ALT X  &mt LEFT_CONTROL C  &mt LEFT_SHIFT V  &kp B        &kp N        &mt LEFT_SHIFT M  &mt RIGHT_CONTROL COMMA  &mt RIGHT_ALT DOT  &mt RIGHT_GUI SLASH  &kp APOS
-                                           &kp ESCAPE          &kp BACKSPACE     &lt 1 DEL    &lt 2 ENTER  &kp SPACE         &kp TAB
+                                           &kp ESCAPE          &kp SPACE         &lt 1 TAB    &lt 2 ENTER  &kp BACKSPACE     &kp DELETE
             >;
         };
 
