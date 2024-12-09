@@ -85,10 +85,10 @@
             //                                     ┗━━━━━━━━━━━┻━━━━━━━━━━━┻━━━━━━━━━━━┛   ┗━━━━━━━━━━━┻━━━━━━━━━━━┻━━━━━━━━━━━┛
 
             bindings = <
-           &mt LEFT_META Q  &mt LEFT_ALT W  &mt LEFT_CONTROL E  &mt LEFT_SHIFT R  &kp T        &kp Y        &mt LEFT_SHIFT U  &mt RIGHT_CONTROL I  &mt RIGHT_ALT O  &mt RIGHT_META P
-           &kp A            &kp S           &kp D               &kp F             &kp G        &kp H        &kp J             &kp K                &kp L            &kp SEMICOLON
-&kp TILDE  &kp Z            &kp X           &kp C               &kp V             &kp B        &kp N        &kp M             &kp COMMA            &kp DOT          &kp FSLH          &kp APOS
-                                            &kp ESCAPE          &kp SPACE         &lt 1 TAB    &lt 2 ENTER  &kp BACKSPACE     &kp DEL
+           &kp Q           &kp W           &kp E               &kp R             &kp T        &kp Y        &kp U             &kp I                    &kp O              &kp P
+           &kp A           &kp S           &kp D               &kp F             &kp G        &kp H        &kp J             &kp K                    &kp L              &kp SEMICOLON
+&kp TILDE  &mt LEFT_GUI Z  &mt LEFT_ALT X  &mt LEFT_CONTROL C  &mt LEFT_SHIFT V  &kp B        &kp N        &mt LEFT_SHIFT M  &mt RIGHT_CONTROL COMMA  &mt RIGHT_ALT DOT  &mt RIGHT_GUI SLASH  &kp APOS
+                                           &kp ESCAPE          &kp SPACE         &lt 1 TAB    &lt 2 ENTER  &kp BACKSPACE     &kp DEL
             >;
         };
 
