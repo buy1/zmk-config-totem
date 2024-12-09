@@ -140,7 +140,7 @@
         &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp LEFT_BRACE  &kp RIGHT_BRACE  &kp TILDE      &kp BACKSLASH  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp SINGLE_QUOTE  &kp DOUBLE_QUOTES
         &kp EXCL          &kp AT             &kp HASH        &kp DOLLAR       &kp PERCENT    &kp CARET      &kp AMPERSAND         &kp STAR               &kp MINUS         &kp EQUAL
 &trans  &trans            &trans             &trans          &trans           &trans         &kp C_VOL_DN   &kp C_VOL_UP          &kp C_PREV             &kp C_NEXT        &kp C_MUTE         &trans
-                                             &trans          &gif             &mo 3          &trans         &kp C_PP              &trans
+                                             &mo 3           &gif             &trans         &trans         &kp C_PP              &trans
             >;
         };
 
