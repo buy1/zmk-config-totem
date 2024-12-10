@@ -137,10 +137,10 @@
             //                                     ┗━━━━━━━━━━━┻━━━━━━━━━━━┻━━━━━━━━━━━┛   ┗━━━━━━━━━━━┻━━━━━━━━━━━┻━━━━━━━━━━━┛
 
             bindings = <
-        &kp TILDE  &kp GRAVE  &kp PIPE  &kp PERCENT  &kp LEFT_BRACKET        &kp RIGHT_BRACKET      &kp CARET          &trans            &kp UNDER  &kp PLUS
-        &kp EXCL   &kp AT     &kp HASH  &kp DOLLAR   &kp LEFT_PARENTHESIS    &kp RIGHT_PARENTHESIS  &kp AMPERSAND      &kp STAR          &kp MINUS  &kp EQUAL
-&trans  &kp BSLH   &trans     &trans    &trans       &kp LEFT_BRACE          &kp RIGHT_BRACE        &kp DOUBLE_QUOTES  &kp SINGLE_QUOTE  &trans     &kp SLASH  &trans
-                              &mo 3     &gif         &trans                  &trans                 &kp C_PP           &trans
+        &kp TILDE  &trans    &trans    &kp PERCENT  &kp LEFT_BRACKET        &kp RIGHT_BRACKET      &kp CARET          &trans            &kp UNDER  &kp PLUS
+        &kp EXCL   &kp AT    &kp HASH  &kp DOLLAR   &kp LEFT_PARENTHESIS    &kp RIGHT_PARENTHESIS  &kp AMPERSAND      &kp STAR          &kp MINUS  &kp EQUAL
+&trans  &kp BSLH   &kp PIPE  &trans    &trans       &kp LEFT_BRACE          &kp RIGHT_BRACE        &kp DOUBLE_QUOTES  &kp SINGLE_QUOTE  &kp GRAVE  &kp SLASH  &trans
+                             &mo 3     &gif         &trans                  &trans                 &kp C_PP           &trans
             >;
         };
 
